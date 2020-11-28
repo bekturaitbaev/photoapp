@@ -1,5 +1,6 @@
-package ab.android.photoapp
+package ab.android.photoapp.ui
 
+import ab.android.photoapp.R
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 

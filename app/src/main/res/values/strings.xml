@@ -1,3 +1,11 @@
 <resources>
+
     <string name="app_name">PhotoApp</string>
+    <string name="account_text">Аккаунт</string>
+    <string name="photo_text">Фото</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signin_text">Войти</string>
+    <string name="login_text">Логин</string>
+    <string name="cartoons_text">Картинки</string>
 </resources>
